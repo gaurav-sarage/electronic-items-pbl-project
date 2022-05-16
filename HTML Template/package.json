@@ -1,0 +1,12 @@
+{
+    "name": "electronicstore",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "HTML Template/sass ./sass/style.scss style.css --watch"
+    },
+    "author": "gaurav sarage",
+    "license": "ISC"
+}
